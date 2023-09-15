@@ -1,0 +1,20 @@
+{
+    "word":"queen",
+    "phonetic":"/kwiːn/",
+    "phonetics":[
+        {"text":"/kwiːn/",
+        "audio":"https://api.dictionaryapi.dev/media/pronunciations/en/king-uk.mp3",
+        "sourceUrl":"https://commons.wikimedia.org/w/index.php?curid=9027599",
+        "license":{"name":"BY 3.0 US","url":"https://creativecommons.org/licenses/by/3.0/us"}},
+        {"text":"/kiŋ/",
+        "audio":"https://api.dictionaryapi.dev/media/pronunciations/en/king-us.mp3",
+        "sourceUrl":"https://commons.wikimedia.org/w/index.php?curid=643251",
+        "license":{"name":"BY-SA 3.0","url":"https://creativecommons.org/licenses/by-sa/3.0"}}],
+    "meanings":[
+        {"partOfSpeech":"noun","definitions":[
+            {"definition":" A female monarch. Example: Queen Victoria","synonyms":[],"antonyms":[],"example":"Henry VIII was the king of England from 1509 to 1547."}],"synonyms":[],"antonyms":[]},
+            {"partOfSpeech": "verb", "definitions":[
+                {"definition":"To make a queen.","synonyms":[],"antonyms":[]}
+            ]}
+    ]
+}
